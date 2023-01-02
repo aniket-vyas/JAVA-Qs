@@ -1,6 +1,6 @@
 // OR Bit Magic
 
-public class bm_2_orBitMagic{
+public class bm_2_or_BitMagic{
   public static void main(String[] args) {
 		int x = 3 , y = 6;
 		System.out.println(x | y);
