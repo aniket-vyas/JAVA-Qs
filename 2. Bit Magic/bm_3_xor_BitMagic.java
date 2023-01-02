@@ -1,6 +1,6 @@
 // X-OR Bit Magic
 
-public class xor_bitmagic {
+public class xor_BitMagic {
 	public static void main(String[] args) {
 		int x = 3 , y = 6;
 		System.out.println(x ^ y);
