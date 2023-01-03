@@ -3,7 +3,7 @@
 // Formula :- { (2)^32 - 1 - x }
 
 // Ex : 1
-public class bm_4_not_BitMagic {
+public class bm_4_not_{
 	public static void main(String[] args) {
 		int x = 1;
 		System.out.println(~ x);    
@@ -14,7 +14,7 @@ public class bm_4_not_BitMagic {
 }
 
 // Ex : 2
-public class bm_4_not_BitMagic {
+public class bm_4_not_{
 	public static void main(String[] args) {
 		int x = 5;
 		System.out.println(~x);     
