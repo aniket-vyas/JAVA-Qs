@@ -1,6 +1,6 @@
 // Left Shift 
 
-public class leftShift {
+public class bm_5_leftShift_ {
 	public static void main(String[] args) {
 		int x = 3;
 		System.out.println(x << 1);   // OUTPUT : 6
