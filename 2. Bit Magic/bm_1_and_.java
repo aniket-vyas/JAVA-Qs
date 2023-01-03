@@ -1,6 +1,6 @@
 //  A N D ( & )
 
-public class bm_1_and_BitMagic {
+public class bm_1_and_ {
 	public static void main(String[] args) {
 		int x = 3 , y = 6;
 		System.out.println(x & y);
